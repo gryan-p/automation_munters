@@ -1,0 +1,22 @@
+{
+  "name": "eta-automation",
+  "version": "1.0.0",
+  "description": "automation test for eta-munters",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "javascript",
+    "typescitp",
+    "testing\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dript",
+    "testing"
+  ],
+  "author": "Gryan Panulaya",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.13.0",
+    "typescript": "^5.0.4"
+  }
+}
